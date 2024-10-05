@@ -2,7 +2,7 @@
 ![image](docs/imgs/app_img.png)
 
 ## Description
-This repository is to put in pratice fundamentals concepts I have learning in my studies about Docker.
+This repository is to put in pratice fundamentals concepts I have learned in my studies about Docker.
 
 ## Requirements
 * [Install Docker](https://docs.docker.com/desktop/)
