@@ -30,10 +30,10 @@ docker run -d --name first-container -p 8080:80 first-container-image
 
 5. On your web browser, access the app by link below:
 ```
-http://localhost:8080/
+http://localhost:8080
 ```
 
-## To remove the installed resources
+## To remove installed resources
 ### In your terminal:
 1. Stop the container
 ```bash
